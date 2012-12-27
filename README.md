@@ -9,6 +9,11 @@ Installation
 3. Start Glyphs
 4. Select **adhesiontext** from the *Script* menu
 
+Dependencies
+-----
+- [Vanilla](http://code.typesupply.com/wiki/Vanilla)
+- [DefconAppKit](http://code.typesupply.com/wiki/DefconAppKit)
+
 Changelog
 -----
 **v1.0 (26 December 2012)**
