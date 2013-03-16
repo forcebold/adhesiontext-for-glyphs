@@ -16,12 +16,15 @@ Dependencies
 
 Changelog
 -----
+**v1.2 (16 March 2013)**
+- Added Indian scripts and languages
+
 **v1.0 (26 December 2012)**
 - First release
 
 License
 -----
-Copyright (c) 2012, Miguel Sousa
+Copyright (c) 2012-2013, Miguel Sousa
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are
